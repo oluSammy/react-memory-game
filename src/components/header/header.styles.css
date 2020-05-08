@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    background-color: orangered;
+    color: #fff;
+    padding: 10px 30px;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 96.5%;
+    z-index: 10000;
+}
+
+.scores{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+
+.current-score{
+    margin-right: 30px;
+}

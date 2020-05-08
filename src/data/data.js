@@ -11,14 +11,14 @@ const players = [
     {name: 'martial', club: 'Man United', country: 'France'},
     {name: 'mbappe', club: 'PSG', country: 'France'},
     {name: 'messi', club: 'Barcelona', country: 'Argentina'},
-    {name: 'neuer', club: 'Bayern Munchen', country: 'Germany'},
+    {name: 'neuer', club: 'B Munich', country: 'Germany'},
     {name: 'neymar', club: 'PSG', country: 'Brazil'},
     {name: 'rashford', club: 'Man United', country: 'England'},
     {name: 'ronaldo', club: 'Juventus', country: 'Portugal'},
     {name: 'salah', club: 'Liverpool', country: 'Egypt'},
     {name: 'sergio-ramos', club: 'Real Madrid', country: 'Spain'},
     {name: 'suarez', club: 'Barcelona', country: 'Uruguay'},
-    {name: 'T Abraham', club: 'Chelsea', country: 'England'},
+    {name: 'tammy', club: 'Chelsea', country: 'England'},
 ];
 
 export default players;

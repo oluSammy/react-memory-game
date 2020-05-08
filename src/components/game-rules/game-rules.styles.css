@@ -1,0 +1,9 @@
+.rule{
+    background-image: linear-gradient(to right, orangered, purple);
+    color: #fff;
+    font-size: 30px;
+    padding: 5px 10px;
+    /* margin-top: -1px; */
+    margin-top: 6rem;
+    text-align: center;
+}
